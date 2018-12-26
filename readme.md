@@ -2,4 +2,4 @@
 
 # Методы и алгоритмы решения задач классификации и рекомендации текстов
 
-[пример работы классификатора](https://github.com/smayluk/recipe-classification-and-recommendation/examples/classification)
+[пример работы классификатора](https://github.com/smayluk/recipe-classification-and-recommendation/tree/master/examples/classification)
